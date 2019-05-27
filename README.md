@@ -1,4 +1,6 @@
 # Hello-React
 
 First Time in React.JS
-- create-react-app helloreact  //Create App
+- create-react-app helloreact
+- npm start
+
